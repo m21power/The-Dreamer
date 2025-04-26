@@ -1,16 +1,26 @@
-# habit_app
+# Streak Calendar App 📅🔥
 
-A new Flutter project.
+A habit-tracking Flutter application that helps you maintain streaks by marking daily completions. Only the current day can be marked to ensure genuine habit formation.
 
-## Getting Started
+![image](https://github.com/user-attachments/assets/4ee5da9b-2d35-4426-ae0b-91e462459245)
+![image](https://github.com/user-attachments/assets/c6f748bc-4d86-4f18-8680-f3d254a1d31d)
+![image](https://github.com/user-attachments/assets/7b3f193a-575c-47d2-8d5e-2547ec8166df)
 
-This project is a starting point for a Flutter application.
+## Features ✨
 
-A few resources to get you started if this is your first Flutter project:
+- 📅 Calendar view with streak tracking
+- ✅ Mark only the current day as completed (no cheating!)
+- 🔥 Visual streak counter
+- 💾 Local data persistence using Hive
+- 📱 Responsive design for all devices
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Technologies Used 🛠️
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** - Cross-platform framework
+- **Hive** - Lightweight & fast local database
+- **Table Calendar** - Beautiful calendar widget
+## Installation ⚙️
+
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/m21power/The-Dreamer.git
